@@ -39,6 +39,7 @@
 <img src="TommyBoy/media/image18.png" style="width:6.03333in;height:3.2in" />
 
 passwd and username is same
+
 <img src="TommyBoy/media/image19.png" style="width:5.90833in;height:1.08333in" />
 
 <img src="TommyBoy/media/image20.png" style="width:5.89167in;height:3.48333in" />
@@ -46,6 +47,7 @@ passwd and username is same
 <img src="TommyBoy/media/image21.png" style="width:6.15in;height:3.26667in" />
 
 rokyou.txt wordlist
+
 <img src="TommyBoy/media/image22.png" style="width:5.90833in;height:2.575in" />
 
 <img src="TommyBoy/media/image23.png" style="width:5.91667in;height:2.05in" />
@@ -55,6 +57,7 @@ rokyou.txt wordlist
 <img src="TommyBoy/media/image25.png" style="width:5.61667in;height:1.39167in" />
 
 for creating pssword tool name crunch
+
 <img src="TommyBoy/media/image26.png" style="width:6.45in;height:2.75in" />
 
 <img src="TommyBoy/media/image27.png" style="width:6.41667in;height:3.53333in" />
@@ -62,6 +65,7 @@ for creating pssword tool name crunch
 <img src="TommyBoy/media/image28.png" style="width:6.375in;height:3.96667in" />
 
 wpscan
+
 <img src="TommyBoy/media/image29.png" style="width:6.26667in;height:4.96667in" />
 
 <img src="TommyBoy/media/image30.png" style="width:5.59167in;height:1.83333in" />
