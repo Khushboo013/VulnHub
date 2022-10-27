@@ -65,12 +65,15 @@ changing index.php code with my code
 <img src="GlasgowSmile/media/image29.png" style="width:5.75in;height:3.36667in" />
 
 password same ad abner
+
 <img src="GlasgowSmile/media/image30.png" style="width:5.74167in;height:1.35in" />
 
 after running pspy
+
 <img src="GlasgowSmile/media/image31.png" style="width:5.79167in;height:0.54167in" />
 
 <img src="GlasgowSmile/media/image32.png" style="width:5.75in;height:2.51667in" />
 
 dump my code in
+
 <img src="GlasgowSmile/media/image33.png" style="width:5.65in;height:3.25in" />
