@@ -69,5 +69,3 @@ Now just wait for sometime(or run some random commands to speed up the process) 
 <img src="symfonos3/media/image24.png" style="width:6.325in;height:2.875in" />
 
 <img src="symfonos3/media/image25.png" style="width:6.21667in;height:3.90833in" />
-
-<img src="symfonos3/media/image26.png" style="width:0.15833in;height:0.41667in" /><img src="symfonos3/media/image27.png" style="width:0.15833in;height:0.41667in" />
