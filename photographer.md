@@ -13,6 +13,7 @@
 <img src="photographer/media/image5.png" style="width:5.45833in;height:2.71667in" alt="Message-ID: Date: Mon, 20 Jul 2020 -0400 From: Agi Clarence User-Agent: Mozi11a/5.O (Windows; U; Windows NT 5.1; en-US; rv:l.ø X-Accept-Language: en-us, en MIME-Version: 1.0 To: Daisa Ahomi Subject: To Do - Daisa Website&#39;s Content-Type: text/plain; charset=us-ascii; content-Transfer-Encoding: 7bit Hi Daisa! Your site is ready now. Don&#39;t forget your secret, my babygirl (END format-flowed " />
 
 for conformation
+
 <img src="photographer/media/image6.png" style="width:5.36667in;height:0.44167in" />
 
 <img src="photographer/media/image7.png" style="width:5.58333in;height:0.875in" />
@@ -26,6 +27,7 @@ for conformation
 <img src="photographer/media/image11.png" style="width:6.75833in;height:5.65in" />
 
 rename the file name
+
 <img src="photographer/media/image12.png" style="width:5.86667in;height:5.875in" />
 
 <https://www.exploit-db.com/exploits/48706>
