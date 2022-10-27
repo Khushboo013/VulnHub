@@ -55,6 +55,7 @@ InvincibleHack3r
 <img src="godeneye/media/image25.png" style="width:5.59167in;height:2.8in" />
 
 click on spell check
+
 <img src="godeneye/media/image26.png" style="width:3.95833in;height:2in" />
 
 <img src="godeneye/media/image27.png" style="width:5.51667in;height:0.24167in" />

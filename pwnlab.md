@@ -21,6 +21,7 @@
 <img src="Pwnlab/media/image9.png" style="width:4.45in;height:0.88333in" />
 
 Intercepting the request via Burp, let’s insert the uploaded path inside the LANG parameter as shown below:
+
 <img src="Pwnlab/media/image10.png" style="width:5.625in;height:4.54167in" />
 
 <img src="Pwnlab/media/image11.png" style="width:5.33333in;height:0.9in" />
